@@ -7,6 +7,7 @@ This is a working hour log.
 
 |Date|What|
 |----|--------|
+| 151201|work|
 | 151130|codeing|
 | 151128|JSPHP|
 | 151127|JS|
