@@ -37,7 +37,7 @@
 		}else{
 			$(ele).parent().find("span").css("text-decoration","none");
 		}
-	}
+	}\
 	//删除按钮的事件
 	function dele(ele){
 		$(ele).parent().remove();
@@ -63,4 +63,3 @@
 
 
 }();
-
